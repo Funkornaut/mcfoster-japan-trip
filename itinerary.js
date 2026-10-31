@@ -1,7 +1,7 @@
-// Edit the day entries below whenever plans change. Do not add confirmation codes or payment details.
+// Edit the day entries below whenever plans change.
 window.TRIP={days:[
 {date:"Nov 1",weekday:"Sunday",city:"Toronto",tag:"Travel",heading:"The journey begins",items:[["4:30 PM","Fly Minneapolis to Toronto","CT"],["7:41 PM","Arrive Toronto","Toronto"],["Evening","Dinner and overnight stopover"]],stay:"Executive Hotel Cosmopolitan Toronto"},
-{date:"Nov 2",weekday:"Monday",city:"In transit",tag:"Travel",heading:"Across the Pacific",items:[["12:35 PM","Depart Toronto for Tokyo"]],note:"Overnight international flight."},
+{date:"Nov 2",weekday:"Monday",city:"In transit",tag:"Travel",heading:"Across the Pacific",items:[["12:35 PM","Depart Toronto for Tokyo","Toronto"]],note:"Overnight international flight."},
 {date:"Nov 3",weekday:"Tuesday",city:"Tokyo",tag:"Explore",heading:"First night in Japan",items:[["4:30 PM","Arrive Narita Airport"],["Evening","Roppongi, dinner and rest"]],stay:"Candeo Hotels Tokyo Roppongi"},
 {date:"Nov 4",weekday:"Wednesday",city:"Osaka",tag:"Train",heading:"Bullet train to Osaka",items:[["12:00 PM","Nozomi Shinkansen departs Tokyo Station"],["2:30 PM","Arrive Shin-Osaka"],["Afternoon","Transfer to Umeda and explore"]],stay:"Hotel Intergate Osaka Umeda"},
 {date:"Nov 5",weekday:"Thursday",city:"Osaka",tag:"Explore",heading:"A day to wander",items:[["All day","Osaka sightseeing or possible Kyoto day trip"]],stay:"Hotel Intergate Osaka Umeda"},
