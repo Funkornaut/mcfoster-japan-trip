@@ -1,6 +1,6 @@
 // Edit the day entries below whenever plans change. Do not add confirmation codes or payment details.
 window.TRIP={days:[
-{date:"Nov 1",weekday:"Sunday",city:"Toronto",tag:"Travel",heading:"The journey begins",items:[["4:30 PM","Fly Minneapolis to Toronto"],["7:41 PM","Arrive Toronto"],["Evening","Dinner and overnight stopover"]],stay:"Executive Hotel Cosmopolitan Toronto"},
+{date:"Nov 1",weekday:"Sunday",city:"Toronto",tag:"Travel",heading:"The journey begins",items:[["4:30 PM","Fly Minneapolis to Toronto","CT"],["7:41 PM","Arrive Toronto","Toronto"],["Evening","Dinner and overnight stopover"]],stay:"Executive Hotel Cosmopolitan Toronto"},
 {date:"Nov 2",weekday:"Monday",city:"In transit",tag:"Travel",heading:"Across the Pacific",items:[["12:35 PM","Depart Toronto for Tokyo"]],note:"Overnight international flight."},
 {date:"Nov 3",weekday:"Tuesday",city:"Tokyo",tag:"Explore",heading:"First night in Japan",items:[["4:30 PM","Arrive Narita Airport"],["Evening","Roppongi, dinner and rest"]],stay:"Candeo Hotels Tokyo Roppongi"},
 {date:"Nov 4",weekday:"Wednesday",city:"Osaka",tag:"Train",heading:"Bullet train to Osaka",items:[["12:00 PM","Nozomi Shinkansen departs Tokyo Station"],["2:30 PM","Arrive Shin-Osaka"],["Afternoon","Transfer to Umeda and explore"]],stay:"Hotel Intergate Osaka Umeda"},
@@ -10,5 +10,5 @@ window.TRIP={days:[
 {date:"Nov 8",weekday:"Sunday",city:"Southern Kagoshima",tag:"Tour",heading:"Satsuma cultural tour · Day 1",items:[["Late morning","Depart Kagoshima for a two-day guided tour"],["Afternoon","Explore the Chiran and Ibusuki area"],["Evening","Overnight in the Ibusuki area"]],note:"Tour itinerary and overnight arrangements to be confirmed."},
 {date:"Nov 9",weekday:"Monday",city:"Southern Kagoshima → Tokyo",tag:"Tour",heading:"Satsuma cultural tour · Day 2",items:[["Morning–afternoon","Continue the guided tour"],["Late afternoon","Return to Kagoshima (estimated)"],["8:15 PM","Depart Kagoshima Airport for Tokyo"],["9:55 PM","Arrive Tokyo Haneda"]],stay:"Hotel 1899 Tokyo",note:"Tour activities and return time to be confirmed."},
 {date:"Nov 10",weekday:"Tuesday",city:"Tokyo",tag:"Explore",heading:"One more Tokyo day",items:[["All day","Art, food, shopping and possible teamLab visit"]],stay:"Hotel 1899 Tokyo"},
-{date:"Nov 11",weekday:"Wednesday",city:"Homeward",tag:"Travel",heading:"Back to Minneapolis",items:[["6:45 PM","Depart Tokyo Narita for Toronto"],["4:45 PM","Arrive Toronto (local time)"],["8:00 PM","Depart Toronto for Minneapolis"],["9:20 PM","Arrive Minneapolis"]]}
+{date:"Nov 11",weekday:"Wednesday",city:"Homeward",tag:"Travel",heading:"Back to Minneapolis",items:[["6:45 PM","Depart Tokyo Narita for Toronto","Japan"],["4:45 PM","Arrive Toronto (local time)","Toronto"],["8:00 PM","Depart Toronto for Minneapolis","Toronto"],["9:20 PM","Arrive Minneapolis","CT"]]}
 ]};
